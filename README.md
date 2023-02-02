@@ -10,4 +10,8 @@ distributions, Hypothesis Testing, Computational Techniques: Linear Regression, 
 Carlo Methods.
 
 
-References: Mathematics for Machine Learning, M P Deisenroth, A Aldo Faisal, Cheng Soon Ong
+References: 
+  - Mathematics for Machine Learning, M P Deisenroth, A Aldo Faisal, Cheng Soon Ong
+  - Introduction to Linear Algebra, 3rd Edition Textbook by Gilbert Strang
+  - Introduction to Probability, Textbook by Dimitri Bertsekas and John Tsitsiklis
+

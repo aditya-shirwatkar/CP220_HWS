@@ -8,3 +8,6 @@ point arithmetic, Optimization Basics: Gradient Descent, Constrained optimizatio
 Probability and Stats Basics: Conditional Probability & Independence, Discrete distributions, Continuous
 distributions, Hypothesis Testing, Computational Techniques: Linear Regression, Density Estimation, Monte
 Carlo Methods.
+
+
+References: Mathematics for Machine Learning, M P Deisenroth, A Aldo Faisal, Cheng Soon Ong
